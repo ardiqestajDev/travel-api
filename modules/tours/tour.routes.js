@@ -21,5 +21,5 @@ router.get("/:tourId", getTourById);
 // router.patch("/:tourId");
 
 // // Delete Tour
-router.delete("/:tourId", deleteTour);
+// router.delete("/:tourId", deleteTour);
 export default router;
